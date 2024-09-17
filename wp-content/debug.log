@@ -1,0 +1,28 @@
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7648
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7649
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7653
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7908
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 3644
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 3870
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 5579
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 5579
+[17-Sep-2024 09:16:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 4880
+[17-Sep-2024 09:16:21 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "post_content" on null in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php:808
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\post-new.php(66): get_default_post_to_edit('fca_qc_quiz', true)
+#1 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php on line 808
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7648
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7649
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7653
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 7908
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 3644
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 3870
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 5579
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 5579
+[17-Sep-2024 09:16:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in C:\xampp\htdocs\wordpress\wp-includes\post.php on line 4880
+[17-Sep-2024 09:16:27 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "post_content" on null in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php:808
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-admin\post-new.php(66): get_default_post_to_edit('fca_qc_quiz', true)
+#1 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php on line 808
